@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb8941d-e29f-44c3-a01b-bf2a4fe22a3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab-1" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LmsdYCEzTpPMwJOdsbvrdsi4Sy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab-1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab-1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb8941d-e29f-44c3-a01b-bf2a4fe22a3e" name="Default Changelist" comment="" />
+      <created>1676487679447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676487679447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676492957833">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="436" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676492957833" />
+    <state x="229" y="58" key="SettingsEditor" timestamp="1676492792536">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="229" y="58" key="SettingsEditor/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676492792536" />
+    <state x="100" y="125" width="1240" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1676489380931">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="100" y="125" width="1240" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676489380931" />
+    <state x="504" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1676489307764">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="504" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676489307764" />
+  </component>
+</project>
